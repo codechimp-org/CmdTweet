@@ -3,6 +3,9 @@ CmdTweet
 
 A Windows command line console application to post messages to Twitter
 
+Using TwitterVB library 
+https://github.com/DWRoelands/TwitterVB
+
 License (MIT)
 -------------
 
